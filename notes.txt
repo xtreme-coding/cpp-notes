@@ -2,3 +2,6 @@ use <bits/stdc++.h>
 a.size() - this gives the size of string
 to_string(int_variable) - this converts integer to string
 push_back(char_variable) - appends char variable to end of a string
+
+#include <climits> - we can use INT_MAX and INT_MIN
+
